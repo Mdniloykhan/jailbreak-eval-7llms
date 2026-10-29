@@ -103,8 +103,7 @@ jailbreak-eval-7llms/
 │   ├── fig3_defense_comparison.pdf
 │   ├── fig4_size_vs_robustness.pdf
 │   └── fig5_latency_tradeoff.pdf
-└── paper/
-    └── tifs_paper_v2.tex
+
 ```
 
 ---
