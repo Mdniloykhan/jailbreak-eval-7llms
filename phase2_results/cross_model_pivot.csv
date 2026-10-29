@@ -1,0 +1,6 @@
+attack_family,gemma2_9b,llama31_8b,llama32_3b,llama3_8b,mistral_7b,phi4_14b,qwen2_7b
+direct_request,0.0,40.0,30.0,0.0,40.0,0.0,0.0
+hypothetical_framing,10.0,50.0,50.0,0.0,40.0,0.0,30.0
+instruction_override,0.0,50.0,10.0,0.0,20.0,0.0,0.0
+obfuscation_attack,30.0,60.0,50.0,70.0,70.0,60.0,40.0
+roleplay_jailbreak,20.0,40.0,0.0,20.0,50.0,0.0,10.0

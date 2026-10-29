@@ -1,0 +1,8 @@
+model,overall_asr,total_success,total_prompts
+llama31_8b,48.0,24,50
+mistral_7b,44.0,22,50
+llama32_3b,28.0,14,50
+llama3_8b,18.0,9,50
+qwen2_7b,16.0,8,50
+gemma2_9b,12.0,6,50
+phi4_14b,12.0,6,50
