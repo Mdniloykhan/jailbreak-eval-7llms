@@ -78,7 +78,7 @@ jailbreak-eval-7llms/
 ├── phase2_ollama.py          # Phase 2: 3 additional models (Llama-3.1, Phi-4, Llama-3.2)
 ├── phase3_defenses.py        # Phase 3: 4 defense mechanisms
 ├── phase4_figures.py         # Phase 4: Publication-quality figure generation
-├── results/
+├── phase1_results/
 │   ├── llama3_8b_results.csv
 │   ├── mistral_7b_results.csv
 │   ├── qwen2_7b_results.csv
