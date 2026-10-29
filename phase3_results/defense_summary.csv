@@ -1,0 +1,11 @@
+defense,model,baseline_asr,residual_asr,asr_reduction,block_rate,false_positive_rate,avg_latency_s
+keyword_blacklist,mistral_7b,44.0,35.0,9.0,45.0,0.0,2.438
+keyword_blacklist,llama31_8b,48.0,25.0,23.0,45.0,0.0,1.774
+no_defense,mistral_7b,44.0,50.0,-6.0,0.0,0.0,4.2
+no_defense,llama31_8b,48.0,45.0,3.0,0.0,0.0,3.068
+paraphrase,mistral_7b,44.0,60.0,-16.0,0.0,0.0,7.003
+paraphrase,llama31_8b,48.0,5.0,43.0,95.0,0.0,2.666
+perplexity_filter,mistral_7b,44.0,50.0,-6.0,10.0,0.0,3.851
+perplexity_filter,llama31_8b,48.0,45.0,3.0,10.0,0.0,3.129
+self_reminder,mistral_7b,44.0,10.0,34.0,0.0,0.0,3.449
+self_reminder,llama31_8b,48.0,5.0,43.0,0.0,0.0,2.442
