@@ -7,7 +7,7 @@
 
 **Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**
 
-> Md. Robiul Islam Niloy, Sadia Hamid Kazi
+> Md. Robiul Islam Niloy, Abu Sayed Md. Mostafizur Rahaman
 > Department of Computer Science and Engineering, BRAC University, Bangladesh
 > *Under review — IEEE Transactions on Information Forensics and Security (IEEE TIFS)*
 
@@ -201,7 +201,7 @@ If you use this code or results in your research, please cite:
 @article{niloy2026jailbreak,
   title={Systematic Evaluation of Adversarial Jailbreaking Attacks
          and Defenses Across Seven Large Language Models},
-  author={Niloy, Md. Robiul Islam and Kazi, Sadia Hamid},
+  author={Niloy, Md. Robiul Islam and Rahaman, Abu Sayed Md. Mostafizur},
   journal={arXiv preprint},
   year={2026},
   url={https://github.com/Mdniloykhan/jailbreak-eval-7llms}
