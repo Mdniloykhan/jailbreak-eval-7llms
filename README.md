@@ -29,7 +29,7 @@ Manuscript under review at IEEE Transactions on Information Forensics and Securi
 | `rejudge/` | Corrected rule-based outputs (diagnostic) |
 | `phase3_results/` | Defense run outputs |
 | `figures/`, `figures_expanded/` | Figures used in the manuscript |
-| `tifs_paper_v7.tex` | Manuscript source |
+
 
 Earlier pilot scripts (`phase1_ollama.py`, `phase2_ollama.py`) and their outputs are kept for transparency. The manuscript does not use the pilot results.
 
