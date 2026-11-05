@@ -16,8 +16,6 @@ Manuscript in preparation for IEEE Transactions on Information Forensics and Sec
 ```
 README.md
 LICENSE
-paper/
-  tifs_paper_v10.tex           manuscript source
 prompts/
   expanded_prompts.json        250 attack prompts (50 per family, 5 families)
 scripts/
