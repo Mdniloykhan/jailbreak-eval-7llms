@@ -17,8 +17,6 @@ Preprint: arXiv:2610.39509. Manuscript in preparation for IEEE Transactions on I
 ```
 README.md
 LICENSE
-paper/
-  tifs_paper_v6.tex            manuscript source (arXiv version)
 prompts/
   expanded_prompts.json        250 attack prompts (50 per family, 5 families)
 scripts/
